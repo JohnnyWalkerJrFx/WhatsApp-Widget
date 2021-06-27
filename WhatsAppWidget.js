@@ -63,7 +63,7 @@ function CreateWhatsAppChatWidget(option = {
                         <div class='wa-chat-box-brand-name'>${option.brandSetting.brandName}</div>
                         <div class='wa-chat-box-brand-subtitle'>${option.brandSetting.brandSubTitle}</div>
                     </div>
-                    <div class="wa-chat-bubble-close-btn"><img style="display: table-row" src="https://drive.google.com/uc?id=14wfuzRp4b1OG7ShM4sBKQXeOgaZ8R0_X?574"></div>
+                    <div class="wa-chat-bubble-close-btn"><img style="display: table-row" src="https://drive.google.com/uc?id=14wfuzRp4b1OG7ShM4sBKQXeOgaZ8R0_X"></div>
                 </div>
                 
                 <div class='wa-chat-box-content'>
