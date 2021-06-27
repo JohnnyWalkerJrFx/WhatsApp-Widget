@@ -32,11 +32,11 @@ function CreateWhatsAppChatWidget(option = {
         option.chatButtonSetting.marginLeft = "0";
         option.chatButtonSetting.marginRight = "20";
     }
-    var css = document.createElement("STYLE");
+    var css = document.createElement("style");
     if(window.jQuery){
         initWidget();
     }else{
-        var script = document.createElement("SCRIPT");
+        var script = document.createElement("script");
         script.src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js';
         script.type = 'text/javascript';
         script.onload = function() {
